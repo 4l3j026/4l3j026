@@ -18,7 +18,8 @@
 
 #Test Icon
 
-[![Instagram](https://www.flaticon.es/svg/static/icons/svg/3955/3955024.svg)](https://www.instagram.com/tu-perfil)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
