@@ -18,7 +18,7 @@
 
 #Test Icon
 
-![Instagram](https://cdn.pixabay.com/photo/2016/11/18/11/16/instagram-1834010_1280.png)
+<img src="https://cdn.pixabay.com/photo/2016/11/18/11/16/instagram-1834010_1280.png" alt="Instagram" width="200" height="200">
 
 
 
