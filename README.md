@@ -18,7 +18,8 @@
 
 #Test Icon
 
-<img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" alt="Ícono de Ejemplo" width="100" height="100">
+<img src="https://img.icons8.com/?size=100&id=pIJdjOoL6KfU&format=png&color=000000" alt="Ícono de Python" width="50" height="50">
+
 
 
 
